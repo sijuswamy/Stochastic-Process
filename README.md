@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 ### Article on AI and ML
 
 An article on AI and ML can be seen at [AIndML](https://github.com/sijuswamy/Stochastic-Process/blob/gh-pages/article_AI.html)
